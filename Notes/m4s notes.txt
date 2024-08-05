@@ -24,7 +24,8 @@ Mechanics Notes
 
     Witch Hunt
         3 squares on the boss indicate baitable hunts
-
+        Separated purple > far baits on opposite roles
+        Close together purple > opposite role close bait
 
 Mechanics Break Down
     Bewitching Flight
