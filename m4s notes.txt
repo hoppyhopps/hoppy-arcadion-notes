@@ -11,7 +11,29 @@ Positions
     Standard Spreads
 
 Mechanic Names - Effects
+    Bewitching Flight - Line AoE from boss + Side cube line AoEs
+    Electrifying Witch Hunt - Thunder AoEs from Bewitching Flight lines + cubes
+    Witch Hunt - Baits or AoEs
+
+Mechanics Notes
+    First Mech - Quick March Positions
+        R1 R2
+        MT OT
+        M1 M2
+        H1 H2
+
+    Witch Hunt
+        3 squares on the boss indicate baitable hunts
 
 
 Mechanics Break Down
-    
+    Bewitching Flight
+        Watch for the boss' cleave
+        Watch for the side cubes' cleave
+        Dodge both to pass the Mechanic
+
+    Electrifying Witch Hunt
+        Check position of side cubes
+        Check which lines on the floor are electrified
+        Mid will also be unsafe with the cleave from North
+        Resolve on static quick march positions listed above
