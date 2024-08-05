@@ -1,0 +1,276 @@
+Markers
+    Place in such a way that we can do color pair partners
+    1 North West
+    A North
+    2 North East
+    B East
+    3 South East
+    C South
+    4 South West
+    D West
+
+Positions
+    Standard clock spot positions
+
+    Standard light parties
+
+
+YouTube Reference: https://www.youtube.com/watch?v=jY_a_-SMRE8
+
+Mechanic Names - Mechanic Effect
+    Call Me Honey - raid wide aoe
+    Drop of Venom - Partner stack with Tempting Twist or Beeline
+    Splash of Venom - Spread with Tempting Twist or Beeline
+    Tempting Twist - Donut aoe, then out on intercardinals
+    Honey Beeline - Line cleave, then in, it is safe where she cleaved
+    Killersting - Duo stack tank buster
+    Stinging Slash - Tank busters on 2 highest aggro, 70 degree cones
+    Honey B. Live: 1st Beat - raid wide aoe, indicates the start of major mechanic 1
+    Outerstage Combo - out + cardinals > out + intercardinals > in + intercardinals
+    Centerstage Combo - in + intercardinals > out + intercardinals > out + cardinals
+    Love Me Tender 1 - 11 towers to soak, each tower grants you 1 heart, reaching 4 hearts stuns you, and buffs the boss
+    Loveseeker - Point blank aoe, spawns moving hearts
+    Heartsick - A stack that will target any player that only has 2 hearts
+    Honey B. Finale - large raid wide aoe
+    Alarm Pheromones 1 - Baitable line aoes
+    Honey B. Live: 2nd Beat - raid wide aoe, indicates the start of major mechanic 2
+    Drop of Love - pair stack, gives 1 heart
+    Splash of Love - spread, gives 1 heart
+    Love Me Tender 2 - 4 players start with 0 hearts, 2 supports and 2 DPS will start with 1 to handle the following mechanics
+    Poison Sting - Targets 1 dps and 1 support at a time, drops lingering puddle + 20s magic vuln
+    Alarm Pheromones 2 - Static line aoes
+    Honey B. Live: 3rd Beat - raid wide aoe, indicates the start of major mechanic 3
+    Poison n Pop - 2 sets of debuffs, towers
+    Rotten Heart - 4 sets of debuffs, alpha and beta, determined by duration pairs (11, 27, 43, 60)
+
+Mechanics Break Down 
+    Call Me Honey
+        Shield and mitigate as needed
+
+    She will open with any of the following combinations
+        Drop of Venom + Tempting Twist
+            Color pairs, out on intercardinals, stack together
+
+        Drop of Venom + Beeline
+            color pairs stack around the boss
+
+        Splash of Venom + Tempting Twist
+            Color pairs out on intercardinal away from each other
+
+        Splash of Venom + Beeline
+            Room for 4 melees around the boss, be in your clock position
+            Ranged adjust farther from boss and away from each other
+
+    And then follow with either of the two tank busters
+        Killersting
+            Tanks stack North and mitigate
+        
+        Stinging Slash
+            Tanks must be top 2 in aggro, stance on early in opener
+            Spread North away-ish from each other
+
+============================================
+= Major Mechanic 1, Honey B. Live: 1st Beat
+============================================
+    Honey B. Live, 1st Beat
+        Heal and mitigate as necessary
+
+    She will follow 'Honey B. Live, 1st Beat' with one of the two combos
+        Outerstage Combo
+            Start out on cardinals
+            Stay out, move to intercardinals
+            Move in, stay on intercardinals
+        
+        Centerstage Combo
+            Start in on intercardinals
+            Move out, stay on intercardinals
+            Stay out, move to cardinals
+
+        # a helpful trick to remember is that Centerstage does the opposite movement of Outerstage, and vice versa
+
+    Love Me Tender
+        Each player will start with a random number of hearts
+            It seems like the number ranges between 0 and 2
+        Ranged players prioritize towers farther from the boss
+        Melee players prioritize towers nearer the boss
+        Stop taking towers as soon as you've reached 3 hearts
+            Whether you've soaked 1 tower or 3 is irrelevant
+
+    Heartsick
+        All players with 2 or fewer hearts should stack together
+        This stack gives one heart, it must be taken while dodging hearts
+
+    # important note for both Love Me Tender and Heartsick, you must avoid getting 4 hearts, it heals and buffs the boss
+
+    She will follow up Love Me Tender and Heartsick with whichever combo she did not do to start this phase
+        Outerstage Combo
+            Start out on cardinals
+            Stay out, move to intercardinals
+            Move in, stay on intercardinals
+        
+        Centerstage Combo
+            Start in on intercardinals
+            Move out, stay on intercardinals
+            Stay out, move to cardinals
+
+    Honey B. Finale
+        Heal and mitigate as necessary
+        Signifies the end of Honey B. Live, 1st Beat
+
+    Killersting
+        Shared tankbuster
+
+    Alarm Pheromones
+        Baitable line aoes that come from the outside
+        Stacking together can be beneficial to melees as it will lead to easier uptime
+        This mechanic is kind of a fuck as far as I can tell, I'll search for a better guide
+
+        Stacking together for this mechanic and rotating clockwise around the arena leads to a reasonable dodge pattern
+        The only difficult part doing the mechanic this way is a 3-1 dodge that the players must perform towards the center of the arena
+
+============================================
+= Major Mechanic 2, Honey B. Live: 2nd Beat
+============================================
+    Honey B. Live: 2nd Beat
+        Heavy raidwide aoe, heal and mit as necessary
+
+    She will cast one of the following
+        Drop of Love
+            Delayed pair stack
+            Beneficial to macro this in chat for later
+            Comes back at the end of the mechanic
+
+        Splash of Love
+            Delayed spread
+            Beneficial to macro this in chat for later
+            Comes back at the end of the mechanic
+
+    Love Me Tender 2
+        0 Heart support starts North
+        0 Heart DPS start South
+        1 Heart players start mid under the boss
+
+        Puddles + Stack
+            0 Heart players rotate clockwise to dodge puddles
+            Stack resolves after 3rd puddle
+
+        AoE Markers + towers
+            After stack resolves two players mid will receive AoE indicators
+            Spread, supports north or west, dps south or east
+            The remaining two 1 heart players take towers
+            Tower priority is supports will take the north and west, dps the south and east
+        
+        Provided all mechanics were resolved properly, this leaves all players at 2 hearts
+
+    Following this she will cast one of the following
+        Tempting Twist
+            donut aoe, then out on intercardinals
+            resolve pair or spread
+
+        Beeline
+            in aoe, then in
+            resolve pair or spread
+
+    Honey B. Finale
+        This indicates the end of Honey B. Live: 2nd Beat
+
+    She will cast one of the following
+        Splash of Venom
+        Drop of Venom
+        
+        Remember to macro it in chat
+
+    Alarm Pheromones
+        Spawns bees that will cleave with big line aoes
+        Set pattern for these, identify the lines and dodge them normally
+
+    Poison Sting
+        Targets 1 DPS and 1 support a time
+        All other players will wait mid in her hitbox
+        Supports will prioritize north and west for dropping puddles
+        DPS will prioritize dropping south and east for puddles
+        drop these at the edge of the arena
+        At the end of the mechanic there will be a stack
+        Supports stack west, dps stack east
+
+    Stinging Slash
+        Handle the same as the first one
+
+    She will cast one of the following
+        Tempting Twist
+            donut aoe, then out on intercardinals
+            resolve pair or spread
+
+        Beeline
+            in aoe, then in
+            resolve pair or spread
+
+============================================
+= Major Mechanic 3, Honey B. Live: 3rd Beat
+============================================
+    Honey B. Live: 3rd Beat
+        Heavy raidwide aoe, heal and mit as necessary
+
+    Poison n Pop
+        2 sets of debuffs, a short set (20s) and a long set (40s)
+        all 4 dps will have the same debuff duration, as will all 4 supports
+        resolve these debuffs at the wall in your clock position, as they are large defamations
+        all other players wait mid
+
+        Players who did not receive short debuffs will resolve the towers
+        You take the tower near your color pair marker
+
+        At the same time she will cast one of the following
+            Drop of Love
+                Delayed pair stack
+                Beneficial to macro this in chat for later
+                Comes back at the end of the mechanic
+
+            Splash of Love
+                Delayed spread
+                Beneficial to macro this in chat for later
+                Comes back at the end of the mechanic
+
+        And the one of the following
+            Outerstage Combo
+                Start out on cardinals
+                Stay out, move to intercardinals
+                Move in, stay on intercardinals
+            
+            Centerstage Combo
+                Start in on intercardinals
+                Move out, stay on intercardinals
+                Stay out, move to cardinals
+
+        resolve all of these mechanics
+        after center or outerstage combo short debuffs resolve, take at wall
+        after short debuff resolves, long debuffs take towers
+
+        After short debuff + towers she will cast the opposite combo
+        afterwards resolve long defamations, short debuffs take towers
+
+    She will cast one of the following
+        Tempting Twist
+            donut aoe, then out on intercardinals
+            resolve pair or spread
+
+        Beeline
+            in aoe, then in
+            resolve pair or spread
+
+    Honey B. Finale
+        raid wide aoe, indicates the end of Honey B. Live: 3rd Beat
+
+    Rotten Heart + Call Me Honey (Soft Enrage)
+        Nisi debuff, it must not be passed to anyone but your partner
+        pre-position at clock spot
+        Wait for each raid wide before popping the next set of debuffs
+        11s debuffs gather mid then pop their debuffs
+        Call Me Honey raid wide
+        27s gathers mid and pops
+        Call me Honey raid wide
+        43s gathers mid and pops
+        Call me Honey raid wide
+        60s gathers mid and pops
+
+    Video guide ends here, presumably enrage after  

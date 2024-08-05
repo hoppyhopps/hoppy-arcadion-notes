@@ -1,0 +1,218 @@
+YouTube Reference: https://www.youtube.com/watch?v=aAp9jBUU3Ss
+Markers
+    Cardinal marks on inside intersection
+    Intercardinal marks on outside intersection
+
+Positions
+    Clocks
+    Light Parties
+
+Mechanic Names - Effects
+    Brutal Impact - Physical Raid Wide AoE, hits 4 then 6 then 8 times
+    Knuckle Sandwich - Shared tank buster
+    Octuple Lariat - Point blank AoE + clock spot proteans
+    Quadruple Lariat - Point blank AoE + partner stack proteans
+    Octoboom Dive - Leaps in the direction he's facing + proximity, then spread
+    Quadroboom Dive - Leaps in the direction he's facing + proximity, partner stack
+    Barbarous Barrage - 7 knock back towers
+    Murderous Mist - Frontal cleave
+    Doping Draught - Damage up, additionl hits from Brutal Impact and Knuckle Sandwich
+    Quadruple Lariat (fire hands) - donut + partner stack proteans
+    Octuple Lariat (fire hands) - donut + clock spot proteans
+    Octoboom Dive (fire hands) - leaps in the direction he's facing + knock back, then spread
+    Quadroboom Dive (firehands) - leaps in the direction he's facing + knock back, then partners
+    Tag Team - Summons two clones, all players chained to one of the two clones
+    Chain Deathmatch - Chains you to a clone, must be hit once and only once by this clone to live
+    Lariat Combo - Dashes cleaving 70% of the arena twice, indicated by glowing arm
+    Final Fusedown - Summons 8 bomb, 2 short fuse, 2 long fuse, players also get fuses
+    Fusefield - Separates players by role with either a long debuff or a short debuff
+    Bombarian Flame - Spawns a lot of fuses, extinguish these fuses by stepping on them
+    Octoboom Bombarian Special - Phys AoE 5 times then out then in then knock back then spread
+    Quadroboom Bombarian Special - Phys AoE 5 times then out then in then knock back then partner
+    Fuses of Fury - Summons bombs, stands on long bomb, move to short bomb after it explodes
+    Fuses or Foe
+
+Mechanics Break Down
+    Brutal Impact x4
+        shield + mit as needed
+    
+    Knuckle Sandwich
+        big tank mit
+
+    Quadruple/Octuple Lariat
+        if Quadruple, partners + out
+        if Octuple, clocks + out
+    
+    Octo/Quadroboom Dive
+        Find facing direction
+        Go past the opposite cardinal marker
+        if octo, spread after jump
+        if quadro, partner stack after jump
+
+    Brutal Impact x4
+        shield + mit as needed
+
+    Barbarous Barrage
+        Group 1 west and north
+        Group 2 South and east
+        DPS in right side of tower (facing the boss)
+        Supports in left side of tower (facing the boss)
+        Get knocked back from n/s or e/w to corners
+        Get knocked back from corners to mid
+        Get knocked back from mid to behind him
+
+    Murderous Mist
+        ride barbarous barrage knock back from in front to behind him
+
+    Doping Draught
+        hit him idk lol get ready for new mechanics
+
+    Quadruple/Octuple Lariat (fire hands)
+        After doping draught quadruple and octuple lariat can have fire on his hands
+        fire on his hands turns this mechanic in to a donut
+        quadruple, partner stack
+        octuple, clock spot spread
+
+    Octo/Quadroboom Dive (fire hands)
+        Identify his facing direction
+        go to where he's facing for knockback
+        melees stay on boss to resolve octo/quadro
+        ranged get knocked back to resolve octo/quadro
+
+    Brutal Impact x6
+        big shield and mitigate
+        still physical, roughly 50% more damage than previous brutal impacts
+
+    Knuckle sandwich x6
+        he's gonna beat u up
+        big tank mit
+
+    Tag Team
+        Summons two clones
+        These clones perform half arena cleaves indicated by their glowing arm
+
+    Chain Deathmatch
+        All players are chained to one of the two clones
+        Players must be hit once by the clone they are chained to in order to live
+
+    Lariat Combo (Clone)
+        Identify the part of the arena that will be cleaved by both clones
+        Stand in such a way that you will be hit only by the clone you are chained to
+        move from that intercardinal marker, to the intercardinal marker that was hit by both
+
+    Quad/Octuple Lariat (fire hands or normal)
+        This can be either in or out depending on his hands
+        if glowing hands, in + resolve quad or octuple
+        if not glowing, out + resolve quad or octuple
+
+    Brutal Impact x6
+        big physical raid wides
+        hits 6 times make sure to heal and shield and mit and yeah
+
+    Final Fusedown
+        He will summon 8 bombs
+        4 with short fuses
+        4 with long fuses
+        2 short fuses on cardinals closer to the boss
+        2 short fuses on intercardinals farther out
+        and vice versa
+        Players will also receive fuses, 1 role short fuse
+        and one role with long fuses
+        that means if 1 dps has a long fuse, all dps have a long fuse
+        and vice versa
+
+        The goal is to send the short fuse players to stand on a long fuse bomb
+        Ranged to the farther away intercardinal bombs (group 1 healer/ranged west, group 2 east)
+        and the melees to the cardinal fuses (group 1 N/W and group 2 E/S)
+
+        Long fuse players stand center on one of the 4 lines of the center diamond, away from short fuse bombs
+        After fuses explode all player swap, long fuse players go to where short fuse bombs just exploded
+        Short fuse players move from the long fuse bombs to the center, away from exploding bombs
+
+    Octo/Quadroboom Dive
+        Pay attention to if his arms are glowing or not
+        If glowing, resolve knock back
+        if not glowing, get the opposite cardinal marker
+        resolve stack or spread depending
+
+    Fusefield
+        Pay attention to which role gets long and short debuff
+        it'll be all dps short all supports long or vice versa
+
+    Bombarian Flame
+        Group 2 goes to flames starting north and going clockwise
+        Group 1 North West, counter-clockwise
+        The order is Healer Ranged Melee Tank
+        Refer to the picture in this channel
+
+        Once all players are in position, resolve fuses in clockwise order
+        Short debuffs should go first
+        Wait a moment before next sets of players go in for heals as it is large damage
+
+    Knuckle Sandwich x6
+        he fucking beats your ass goodluck
+
+    Doping Draught Again
+        Knuckle Sandwich and Brutal Impact raised to 8 hits each
+
+    Octo/Quadroboom Bombarian Special
+        Big mit on 5 physical aoes
+        big out
+        followed by big in, must be all the way in
+        HE'S COMING IN FROMT HE TOP ROPE (blue knock back aoe)
+        just kbr it
+        resolve octo or quadro, clock spots for octo, partners for quadro
+
+    Fuses of Fury
+        Summons bombs in the same configuration as before 
+        in combination with
+
+    Tag Team
+        He summons two clones to cast lariat combo
+        in combination with
+
+    Chain Deathmatch
+        You will be chained to one of the two clones and the main boss
+        in combination with
+
+    Lariat Combo
+        The clones will cleave roughly 70% of the arena,
+        Get hit by the clone you're chained to
+        in combination with
+
+    Murderous Mist
+        You must be hit by the Murderous Mist to resolve the Chain Deathmatch on the boss
+
+    To resolve it all
+        Dodge bombs, stand on long fuse and then short fuse to dodge bombs
+        Be hit by the lariat once by the clone you're tied to
+        be hit by the Murderous Mist
+
+        As soon as the second bombs resolve, you will get the indicators from the clones as well as the Murderous Mist
+        Identify the location that will allow you to be hit by the clone and the murderous Mist
+        Keep in mind Murderous Mist is a 270 degree clone
+
+        Identify where both clones will cleave and move in to that location after you're hit by all mechanics
+
+    Octo/Quadroboom Dive (fire hands or normal)
+        it's the same shit
+
+    Brutal Impact x8
+        holy fuck
+
+    Knuckle Sandwich x8
+        goddamn
+
+    Fuse or Foe
+        First things first ignore your debuff
+        Start beside the boss opposite the spin direction
+        Run to far end of new safe spot
+        Run through the boss in to the new safe spot
+        Find your static marker position
+        Dodge the next 2 AoEs as close to your marker as you can
+        All Done
+
+    Barbarous Barrage 2
+        Same as the first but it's a Lariat Combo instead, knock back to corner that is safe
+
+    Enrage

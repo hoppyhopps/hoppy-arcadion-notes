@@ -1,0 +1,184 @@
+Markers
+	NE 1 - on cross
+	SE 2 - on cross
+	SW 3 - on cross
+	NW 4 - on cross
+	N A - middle of line
+	E B - middle of line
+	S C - middle of line
+	W D - middle of line
+	
+Positions
+	Proteans:
+		Tanks N/S
+		Healers E/W
+		Melees SE/SW
+		Ranged NE/NW
+	
+	Light Parties (Group 1 Group 2)
+		East 4 + West 4
+		
+	Unless explicitly stated, role protean positions are BOSS RELATIVE for Leading Quadruple Crossing
+
+Mechanics Break Down:
+
+	Role Proteans - Quadruple Crossing
+		All Supports in (Cardinals)
+		Supports Dodge Intercard + Max Melee
+		All DPS in (Cardinals)
+		DPS Move to Intercard
+		Stay Intercards
+		
+	Tank Buster - Biscuit Maker
+		Slashing Vuln on First Hit 
+		requires swap
+		
+	Major Mech 1 - Nine Lives
+		One-two-Paw
+			Watch glowing claws
+			Opposite glowing claw, swap
+			
+		Creates 2 Clones
+			Clones have facing arrow, this indicates the direction they are facing
+			Clones copy Black Cat, find safe spot following same dodge pattern
+			for Right->Left dodge, must be on the right side of both clones, then left side
+			Can be called 1B to 3D, https://youtu.be/VslrUTB5y3c?t=122 example
+			Video had to move through, unsure if this is consistent
+			
+		Double Swipe
+			Light Party Stacks, Group 1 W, Group 2 E
+			Physical damage, reps + feints
+			
+	Combo Mech 1 - Soulshade + Leaping Quadruple Crossing
+		Soul shade creates a clone
+		Black Cat jumps to marker
+		Supports start prepositioned around marker on cardinals
+		DPS Swap in to Support's Position
+		DPS To Intercards with support
+		move to light parties
+		Soul casts light party stacks
+			
+	Blood Scratch - Physical Raid Wide
+	
+	Major Mech 2 - Mouser 1
+		From normal mode, indicates platforms that will be smashed
+		Unlike normal mode, all but 2 platforms in melee will be smashed
+		identify and go to them with your light party
+		
+		Copycat
+			Summons a clone who will spawn (seemingly) at a cardinal depending on the platforms that got repaired
+			Casts Elevate and Eviscerate
+				Elevate and Eviscerate is aimed with your facing direction
+				Elevate and Eviscerate seems to be determined by her pose
+				Leaning back, Eviscerate, leaning forward, Elevate
+			
+			In our Example:
+			Elevate and Eviscerate 1
+				Targets the marked player
+				Marked player must stand on a shattered platform adjacent to a whole platform
+				Hits the marked player with a cross AoE
+				Marked player is knocked up towards adjacent whole platform
+			
+			Elevate and Eviscerate 2
+				Targets the marked player
+				Marked player must stand on a whole platform
+				Hits the marked player with a cross AoE
+				Down for the Counts this player, do not aim yourself, be center of the platform
+				
+			Elevate and eviscerate 3
+				Targets the marked player
+				Marked player must stand on a shattered platform adjacent to a whole platform
+				Hits marked player with a cross AoE
+				Marked player is knocked up towards adjacent whole platform
+				
+			Elevate and Eviscerate 4
+				Targets the marked player
+				Marked player must stand on a whole platform
+				Hits the marked player with a cross AoE
+				Down for the Counts this player, do not aim yourself, be center of the platform
+				
+		Biscuit Maker
+			Slashing vuln
+			must tank swap
+			
+		Shockwave
+			Platforms begin to repair themselves, the platforms that repair themselves faster are safe
+			Light parties knocked back to their safe corners
+			1/3, 2/4, etc.
+			Telegraphed spread
+			
+	Combo Mech 2 - Nine lives + Soulshade + One-two-Paw + Quadruple Crossing + Nailchipper
+	YouTube Timestamp: https://youtu.be/VslrUTB5y3c?t=297
+		Leaping One-two-Paw
+			Resolve One-two-Paw at the marker
+			remember attack order
+		
+		Copycat
+			Clone spawns indicating a facing direction
+			Performs first attack, in this case One-two-Paw
+		
+		Leaping Quadruple Crossing
+			Resolve Leaping Quadruple Crossing
+			
+		Copycat
+			Clone spawns indicating a facing direction
+			Performs second attack, in this case Quadruple Crossing
+			
+		Soul Shade One performs their attack from their position, relative to their facing
+			Leaps to boss to perform the attack, stays facing the same direction
+		
+		Tempestuous Tear + Soul Shade 1
+			Light party stack, Group 1 North, Group 2 South
+			Soul Shade One performs their attack from their position, relative to their facing
+				Leaps to boss to perform the attack, stays facing the same direction
+				Dodge second hit after stack
+			
+		Nailchipper
+			DPS or Supports targeted by AoE indicator, this must be taken intercardinal of the boss
+			Opposite role must bait Quadruple Crossing from Soul Shade 2
+			After first hit of Quadruple Crossing Roles swap, opposite role gets targeted AoE
+			Dodge the baited cleaves in the intercards
+			AoE targeted players out
+			
+	Major Mech 3 - Mouse 2
+	YouTube Timestamp: https://youtu.be/VslrUTB5y3c?t=428
+		Same as Mouser 1, two tiles will be safe
+		Find the clone, perform mechanic clone relative
+		
+		Splintering Nails
+			Role Proteans (kinda)
+			From left to right Facing the boss we will stand
+			Tanks Healers DPS
+			
+		Overshadow
+			Line stack
+		
+		At the same time as the Elevates and Eviscerates, there are line stacks and role proteans
+		These must be taken OPPOSITE the of line the targeted player is on, due to the cross AoE
+		
+		Elevate and Eviscerate
+			Player is either down for the count, or knocked up depending on her pose
+			Must be identified and accounted for on the fly
+			Leaning forward, stand on broken, leaning back stand on safe
+			hit by cross AoE
+			
+		Repeat until the mechanic is resolved, moving down the platform opposite the clone
+		
+	Biscuit Maker
+	
+	Shockwave
+	
+	Raining Cats
+		Standard Tether mechanic, Group 1 north, group 2 south when taking tethers
+		Group 1 West Group 2 East when waiting for Tethers
+		Please be max melee to make tethers easier to grab
+		Taken in Order
+		HRTM
+		Healer Ranged Tank Melee
+		
+		Resolve tethers on the marker
+	
+	Copycat
+		Ruby Carbuncle mechanic from p5s, same mechanic as normal mode but faster
+		
+	If there is more this vod did not see it, I'll find it later
