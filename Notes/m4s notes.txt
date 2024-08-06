@@ -11,9 +11,15 @@ Positions
     Standard Spreads
 
 Mechanic Names - Effects
+    Wrath of Zeus - Raid Wide AoE
     Bewitching Flight - Line AoE from boss + Side cube line AoEs
     Electrifying Witch Hunt - Thunder AoEs from Bewitching Flight lines + cubes
-    Witch Hunt - Baits or AoEs
+    Witch Hunt - Baits either on same role or opposite 
+    Widening/Narrowing Witch Hunt - 4 sets of alternating hunt pairs (close/far) and 4 aoes (in/out)
+    Witchgleam - 3 sets of 2 lasers that hit each corner, check for the corners hit only once
+    Side Spark - Half room cleave based on boss position
+    Symphony - either spreads or stacks, spreads if 8 small orbs, stack if 4 big ones
+    Wicked Jolt - Double Swap tank buster
 
 Mechanics Notes
     First Mech - Quick March Positions
@@ -27,6 +33,15 @@ Mechanics Notes
         Separated purple > far baits on opposite roles
         Close together purple > opposite role close bait
 
+    Wide/Narrow Witch Hunt
+        The name of the cast is what indicates what kind of mechanics it will be
+        Wide Witch Hunt is Out In Out In
+        Narrow Witch Hunt is In Out In Out
+
+    Wicked Jolt
+        Easiest to invuln probably
+
+
 Mechanics Break Down
     Bewitching Flight
         Watch for the boss' cleave
@@ -38,3 +53,40 @@ Mechanics Break Down
         Check which lines on the floor are electrified
         Mid will also be unsafe with the cleave from North
         Resolve on static quick march positions listed above
+
+    Wide/Narrow Witch hunts
+        Baiting the hunts is determined by the symbols
+        Bait order can be done with HTMR
+
+        Narrow Witch Hunt with Far Bait
+        baiters need to stand near Markers
+        Group needs to stand north of the C marker, being sure to be off it
+
+        Wide Witch Hunt with Close Bait
+        The inverse of Narrow Witch Hunt Far, naturally
+        Baiters must be as close as possible to markers without being hit
+        Group must sacrifice melee up time in favour of being farther south of C
+
+        After you've completed your bait, head North to A (reduces confusion)
+
+    Wrath of Zeus
+        Shield + Heal as necessary
+
+    Witchgleam
+        Check YouTube reference at this time stamp for boss relative positions
+        https://youtu.be/lIEETAuBazI?t=281
+        M1 is under her, with M2 against the dangerous wall near them
+        MT in front of M1
+        OT in the same square, near corner of dangerous square that is tangential
+        Odds are good we want Disco to be this tank as PLD can maintain uptime, where as others cannot
+        putting me (VPR) there may be viable as well depending on uncoiled fury
+
+        Witchgleam itself is 3 sets of 2 lasers that hit intercards (stay cardinal)
+        Identify the corners that only got hit once
+        Any corner hit twice will have entire quadrant explode
+        Any corner hit once, only the farthest tile in that intercardinal will explode
+        
+    Wicked Jolt
+        probably invuln this
+
+    
