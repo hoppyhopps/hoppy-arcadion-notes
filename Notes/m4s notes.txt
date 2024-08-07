@@ -20,6 +20,7 @@ Mechanic Names - Effects
     Side Spark - Half room cleave based on boss position
     Symphony - either spreads or stacks, spreads if 8 small orbs, stack if 4 big ones
     Wicked Jolt - Double Swap tank buster
+    Lightning Cage - Looks like floor AoEs that you can't be on
 
 Mechanics Notes
     First Mech - Quick March Positions
@@ -41,6 +42,7 @@ Mechanics Notes
     Wicked Jolt
         Easiest to invuln probably
 
+    Lightning Cage - No debuffs on the tip of the cocka
 
 Mechanics Break Down
     Bewitching Flight
@@ -88,5 +90,57 @@ Mechanics Break Down
         
     Wicked Jolt
         probably invuln this
+
+    Witchgleam + Lightning Cage
+        2 Charges -> 2 tile wide explosion
+        3 Charges -> 3 tile wide explosion
+
+        Long timers will always get a +1 due to a partner stack or spread
+        Long debuff 1 -> 2
+        Long debuff 2 -> 3
+
+        Identify the new north by finding the tip of the dick/middle finger/eyebrows/whatever
+        Supports with debuffs go West
+        DPS with debuffs go East
+        2 charges -> go closer to group in corner
+        3 charges -> go far from group in corner
+
+    Electrope Edge
+        Check debuff duration -> 20s is short, 40s is long
+        Count how many times your shot at
+        short debuffs should be shot 2 or 3 times
+        After identifying charge count, resolve thunder Cage
+
+    Side Spark + Spread/stack
+        Resolve these boss relative
+
+    Electrope Edge (Long Debuff)
+        Remember how many times you got shot, then add 1
+        2 charges near safe spot, 3 charges far
+        DPS relative East
+        Supports relative West
+
+    #Stage Destruction can be identified by going to the opposite side her targeting ring points at
+
+    Electron Stream
+        3 sets of blue/yellow lasers
+        Stand in the opposite color of your debuff
+        swap sides if needed
+        Wild charge, so tanks must be in front
+
+        Comes with a few debuffs
+        blue debuffs, small point blank AoE and a donut
+        Close and far cone debuffs (indicated by arrows + 2 people in icon)
+        collider pink debuffs, which must be hit by cones
+
+        DN strat
+        Blue debuffs always stand to the sides
+        Pink cones (arrow debuffs) always stand on her hitbox
+        pink debuffs are always just behind cones
+
+        Looks really easy with this strat actually??
+
+    Wicked Jolt
+        double swap buster, invuln it tbh
 
     
