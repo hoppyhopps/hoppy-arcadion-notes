@@ -1,0 +1,54 @@
+YouTube Reference: https://www.youtube.com/watch?v=1lrk5FbNIPc
+Phase 1:
+
+Markers
+    Cardinals only
+    A North
+    B East
+    C South
+    D West
+
+Mechanics
+    Wrath of Zeus
+        big shield + mit, hurts based
+
+    Bewitching Flight
+        Line cleave + cubes on left side of the arena
+        Dodge cleave from her wings and cubes
+
+    Electrifying Witch Hunt
+        Lines from Bewitching Flight will begin to glow
+        Either far outside dodge or inside lane dodge depending
+
+        Spawns cubes on the opposite side of the arena which need to be dodged
+
+        Hits 4 players (all supports or all dps) with a Witch Hunt
+        The same players who are hit by Witch Hunt get a Forked Lightning Debuff
+        
+        Forked Lightning does nothing to the individual but can hurt players near them
+
+    Witch Hunt
+        Immediately after dodging Electrifying Witch Hunt
+        She will begin to prepare another set of witch hunts indicated by an icon on her
+        if 3 squares are close together (pink-ish), it will be baited on the 4 closest players
+        If it is 3 squares farther apart (purple-ish) then it will be the 4 farthest players
+
+        The players who were not hit by the first set of Witch Hunts will need to bait this set
+        If your natural quickmarch position does not resolve this nicely, simply swap with your nearest dps
+        IE, if Cat needs to be in, she moves up and trades places with me
+
+    One of either: Widening Witch Hunt or Narrowing Witch Hunt
+        Widening Witch Hunt starts with a point blank AoE (Out)
+        Narrowing Witch Hunt starts with a donut AoE (In)
+
+        During the cast bar she will also show the Close or Far icons
+        Only need to pay attention to the first of these, as it will always alternate
+        That is: if it is close first, it will be Close->Far->Close->Far
+        and if it is far first, it will be Far->Close->Far->Close
+
+        Resolution: DN strat
+        Resolve it on the clock spot!
+        Melees on East and West
+        Tanks North and South
+        Healers Northwest and South East
+        Ranged South West and North East
