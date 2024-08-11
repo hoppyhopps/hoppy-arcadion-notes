@@ -1,0 +1,178 @@
+Mechanics Break Down
+    Cross Tail Switch
+        Tank LB3 at just about the S in Switch on the cast bar
+        
+        At the end of the AoEs, send light party 1 left and light party 2 right
+        Look for the row that 2 exaflares going in the opposite direction of your side
+        IE: Light Party 1 wants 2 right facing exaflares
+        Light Part 2 wants 2 left facing exaflares
+
+    Wicked Blaze
+        Light Party Stacks, resolved during exaflares
+        Targets both healers, massive and relatively weak
+
+    Wicked Special
+        Flaming Sword -> Get to sides
+        2 Glowing arms -> Get to middle
+
+    Mustard Bomb
+        Light spread South
+        After tanks grab tethers spread to these positions
+        M1 MT OT M2
+        R1 H1 H2 R2
+
+        Watch for which players did not get hit by a spread
+        Tanks should go to the players who did not get hit by a spread in order to pass their Debuff
+
+    Aetherial Conversion
+        Glows Red or Blue
+        Red Get Away
+        Blue Go to
+
+    Tail Thrust
+        Uses the Red or Blue from Aetherial Conversion
+        If Red: Run opposite the arm, past the little red dot on the floor
+        If Blue: Run to the arm, stand on the inside of the little red dot for a knockback
+
+    Azure Thunder
+        VERY heavy hitting raid wide
+        Lots of mit
+
+    Twilight Sabbath
+        Stack tightly middle
+        Wicked Fire baits puddles under everyone
+        
+        4 clones spawn, watch for which clones spawn first
+        Identify which way to dodge the first 2 clones
+        Do not move until the fire puddles from Wicked Fire appear
+        
+        After dodging the first set of clones, the 2nd set appears
+        Dodge their cleave in the same way we dodged the first cleave
+
+    Wicked Special + clones
+        Dodge either in + Clone cleave or Out + Clone cleave
+
+    Midnight Sabbath
+        Bird Clones = Donuts
+        Gun Clones = Line AoEs
+
+        Dodge Towards Birds
+        Dodge Away from Guns
+
+        Scattered Burst
+            Spread->Pair
+
+        Concentrated Burst
+            Pairs->Spread
+
+        8 clone indicators appear
+        4 of these will appear more quickly
+            All intercardinal or all Cardinals
+
+        Identify where it is Scattered or Concentrated Burst
+
+        Identify if we need to go TO the birds or AWAY from the Guns
+
+        She will cast Wicked Special
+            Go either out to the edge if sword or in to center if arms
+
+    Wicked Thunder
+        Big raid wide
+
+    Aetherial Conversion
+        Type left or right safe
+
+    Flame Slash
+        Destroys center of the arena
+        get light party 1 left
+        get light party 2 right
+        
+    Raining Swords
+        8 towers soaked in the following order from North to South
+        Tank
+        Melee
+        Healer
+        Ranged
+
+    Chain Lightning
+        personal memory Mechanic
+        It will always be 4 different safe spots
+        remember the order of the safe Swords
+        1
+        2
+        3
+        4
+        In the end it should be a 4 digit code
+        for example
+        3412
+        Stand in front of the sword for it to be safe
+
+    Tail Thrust
+        Uses the remembered aetherial Conversion
+
+    Mustard Bomb
+        Quickly group south after the previous Mechanic
+        After the tanks have the tethers get to your assigned spot
+        Resolve this the same as the first one
+
+    Aetherial Conversion
+        Remember safe side
+
+    Azure Thunder
+        Big big mit again
+
+    Ion Cluster
+        1 stack of the same debuffs as earlier
+        Identify your timer as well
+        20 short 35 long
+
+    Sunrise Sabbath
+        Final wall of the fight
+        4 guns in the corners
+        2 birds east and West
+
+        The 2 birds indicate where the towers will spawn
+        They are looking at them
+        birds looking across = east/west towers
+
+        Angled birds = north/south
+
+        long debuff players take towers
+        look north and clockwise
+        supports northwest and counter clockwise
+
+        short debuffs do guns
+        
+        follow the same north and clockwise and northwest and ccw priority for gun players
+        bait the guns *away* from towers
+
+        The bait is precise, you must be as close to the gun that you're baiting as you can be
+        You must also be as close to the wall as you can be
+
+        2nd set of birds to indicate new towers and then
+        
+        Wicked Special, be either sides or in
+        
+        Now swap, long timers bait guns, cleansed debuff take towers
+
+    Tail Thrust
+        Uses the aetherial conversion from earlier
+
+    Sword Quiver
+        Get with partner
+        Tanks melees northwest and northeast
+        ranged healers southwest and southeast
+
+        Boss draws 4 lines on the ground, with each line doing raid wide damage
+        Dodge lines in your pairs
+
+        3 lines will always be the same with the final horizontal line changing
+
+        meaning you can always dodge either
+        northwest, northeast, southwest, south east
+        northwest, northeast, west, east
+        west, east, southwest, southeast
+
+        3 total Sword Quivers
+
+    Wicked Thunder - Enrage
